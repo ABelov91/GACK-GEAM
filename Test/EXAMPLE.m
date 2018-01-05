@@ -1,4 +1,4 @@
-T = 1.5^(0)*0.172; % 0 -> 2000 K, 1 -> 3000 K, 2 -> 4500 K, 3 -> 6750 K
+T = 0.172; % temperature is given in the units of eV
 int_span = 1e-5; % integration interval
 epsilon_user = 1e-3; % required accuracy
 
